@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Complete code\nDue Date: Today\n\nPlan:\n- Add task 'Complete code' with a due date of today to the task list.\n\nAction: Add task 'Complete code' with a due date of today to the task list.",
+        "due_date": "2024-08-03 15:57:35"
+    },
+    {
+        "task": "Call Akhil to ask about the project\n- Due Date: Today at 8:00 PM\n\nI will add this task to the current list of tasks. If you would like to see the updated list of tasks, please let me know. If you want to send the current list of tasks to your email, please confirm, and I will proceed with sending the email.",
+        "due_date": "2024-08-03 15:58:12"
+    },
+    {
+        "task": "Complete code\nDue Date: Today at 8:00 PM\n\nPlan:\n- Add task 'Complete code' with a due date of today at 8:00 PM to the task list. \n\nAction: Add task 'Complete code' with a due date of today at 8:00 PM to the task list. \n\nReminder set successfully.",
+        "due_date": "2024-08-02 20:00:00"
+    },
+    {
+        "task": "Complete work\nDue Date: Tomorrow at 8:00 PM\n\nI will add this task to your task list. If you would like to see the updated list of tasks or if you want to send the current list of tasks to your email, please let me know.\n\nWould you like to see the updated list of tasks or should I send the current list to your email?",
+        "due_date": "2024-08-03 20:00:00"
+    },
+    {
+        "task": "Complete the code\n   - Due Date: Tomorrow at 8:00 PM\n\n2. **Action Plan:**\n   - Add task 'Complete the code' with a due date of tomorrow at 8:00 PM to the task list.\n\n3. **Next Steps:**\n   - I will add the task 'Complete the code' with a due date of tomorrow at 8:00 PM to the current list of tasks.\n\n4. **Listing Tasks:**\n   - If you would like to see the updated list of tasks, please let me know.\n\n5. **Sending Tasks to Email:**\n   - If you want to send the current list of tasks to your email, please confirm, and I will proceed with sending the email.\n\n6. **Action Required:**\n   - Please confirm if you want to see the updated list of tasks or if you would like me to send the current list to your email.\n\n7. **Deadline:**\n   - Complete the code by tomorrow at 8:00 PM.\n\nIf you have any specific preferences or further instructions, feel free to let me know.",
+        "due_date": "2024-08-03 20:00:00"
+    },
+    {
+        "task": "Complete the code\n- Due Date: Today at 9:00 PM\n\n1. Add task 'Complete the code' with a due date of today at 9:00 PM to the task list.\n2. Update the current list of tasks accordingly.\n\nListing Tasks:\n- Complete code (Due Date: Today at 3:57 PM)\n- Call Akhil to ask about the project (Due Date: Today at 8:00 PM)\n- Complete code (Due Date: Today at 8:00 PM)\n- Complete work (Due Date: Tomorrow at 8:00 PM)\n- Complete the code (Due Date: Tomorrow at 8:00 PM)\n\nIf you would like to see the updated list of tasks, please let me know.\n\nIf you would like to have the current list of tasks sent to your email, please confirm, and I will proceed with sending the email.",
+        "due_date": "2024-08-02 21:00:00"
+    },
+    {
+        "task": "Complete code\nDue Date: Today at 9:00 PM\n\nPlan:\n- Add task 'Complete code' with a due date of today at 9:00 PM to the task list.\n- Update the current list of tasks accordingly.\n\nAction: Add task 'Complete code' with a due date of today at 9:00 PM to the task list.\n\nListing Tasks:\n- Complete code (Due Date: Today at 3:57 PM)\n- Call Akhil to ask about the project (Due Date: Today at 8:00 PM)\n- Complete code (Due Date: Today at 8:00 PM)\n- Complete work (Due Date: Tomorrow at 8:00 PM)\n- Complete the code (Due Date: Tomorrow at 8:00 PM)\n- Complete code (Due Date: Today at 9:00 PM)\n\nIf you would like to see the updated list of tasks, please let me know.",
+        "due_date": "2024-08-02 21:00:00"
+    }
+]
